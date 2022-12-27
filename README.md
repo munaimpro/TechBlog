@@ -3,7 +3,9 @@
 ##### Back-end Language:
 ### PHP </br>
 ##### Framework: 
-### Laravel </br></br>
+### Laravel </br>
+#### Database:
+### MySQL </br></br>
 Author : Md. Munaim Khan </br>
 Email  : khanmail2599@gmail.com </br>
 LinkedIn: munaimpro </br>
