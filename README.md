@@ -1,4 +1,5 @@
 # TechBlog
+### Project Type: Technology Blog Website
 #### Design: https://html.design/
 ##### Back-end Language:
 ### PHP </br>
